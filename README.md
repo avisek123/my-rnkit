@@ -55,7 +55,6 @@ npx react-native@latest init MyApp --template my_rnkit
   
 </td>
 <td>
-
 - [react-native-reanimated](https://www.npmjs.com/package/react-native-reanimated)
 - [react-hook-form](https://www.npmjs.com/package/react-hook-form)
 - [@shopify/flash-list](https://www.npmjs.com/package/@shopify/flash-list)

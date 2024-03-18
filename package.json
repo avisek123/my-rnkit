@@ -1,0 +1,24 @@
+{
+  "name": "myrnkit",
+  "version": "1.0.0",
+  "description": "Boilerplate for react native project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avisek123/rnKit.git"
+  },
+  "keywords": [
+    "react-native",
+    "boilerplate",
+    "code"
+  ],
+  "author": "avisek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avisek123/rnKit/issues"
+  },
+  "homepage": "https://github.com/avisek123/rnKit#readme"
+}

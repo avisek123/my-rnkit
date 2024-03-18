@@ -2,6 +2,8 @@
 
 ⚛️ React Native Boilerplate: Jumpstart your app development with essential configurations for React Native projects. Includes libraries, navigation, state management. Streamline your workflow and focus on building amazing mobile experiences! 📱✨
 
+# 📱 Preview of myapp
+
 # Key Features
 
 - **Handle state management using redux-toolkit**: Redux Toolkit offers a powerful and efficient way to handle complex state logic.

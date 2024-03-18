@@ -4,10 +4,16 @@
 
 # 📱 Preview of myapp
 
+
+https://github.com/avisek123/my-rnkit/assets/62586380/f60666a3-3dad-44b5-8c61-e61cf30049ab
+
+
+
 # Key Features
 
 - **Handle state management using redux-toolkit**: Redux Toolkit offers a powerful and efficient way to handle complex state logic.
-- **MMKV - The fastest key/value storage for React Native**: react-native-mmkv is a library for React Native that provides bindings to MMKV, a high-performance key-value storage library for Android and iOS.
+- **MMKV - The fastest key/value storage for React Native**: react-native-mmkv is a library for React Native that provides bindings to MMKV,
+  a high-performance key-value storage library for Android and iOS.
 - **Localization**: Easily localize your app with internationalization support.
 - **react-hook-form**: react-hook-form is a library for managing large input field. It's super light weight and optimizable.
 - **rtk query**: RTK Query is a powerful data fetching and caching library built on top of Redux Toolkit.

@@ -1,24 +1,19 @@
 {
-  "name": "myrnkit",
+  "name": "avi_rnkit",
   "version": "1.0.0",
-  "description": "Boilerplate for react native project",
+  "description": "⚛️ React Native Boilerplate: Jumpstart your app development with essential configurations for React Native projects. Includes libraries, navigation, state management. Streamline your workflow and focus on building amazing mobile experiences! 📱✨",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avisek123/rnKit.git"
+    "url": "git+https://github.com/avisek123/my-rnkit.git"
   },
-  "keywords": [
-    "react-native",
-    "boilerplate",
-    "code"
-  ],
-  "author": "avisek",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avisek123/rnKit/issues"
+    "url": "https://github.com/avisek123/my-rnkit/issues"
   },
-  "homepage": "https://github.com/avisek123/rnKit#readme"
+  "homepage": "https://github.com/avisek123/my-rnkit#readme"
 }

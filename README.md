@@ -5,7 +5,11 @@
 # Key Features
 
 - **Handle state management using redux-toolkit**: Redux Toolkit offers a powerful and efficient way to handle complex state logic.
+- **MMKV - The fastest key/value storage for React Native**: react-native-mmkv is a library for React Native that provides bindings to MMKV, a high-performance key-value storage library for Android and iOS.
 - **Localization**: Easily localize your app with internationalization support.
+- **react-hook-form**: react-hook-form is a library for managing large input field. It's super light weight and optimizable.
+- **rtk query**: RTK Query is a powerful data fetching and caching library built on top of Redux Toolkit.
+- **@shopify/flash-list**: Fast & performant React Native list.
 - **Authentication Stack**: Boilerplate includes authentication stack for user authentication.
 - **Main Stack**: Configured main stack for navigation and UI structure.
 - **And Many More**: Additional features and configurations to streamline development.
@@ -15,10 +19,10 @@
 To create a new project using the boilerplate simply run :
 
 ```
-npx react-native@latest init MyApp --template react-native-kit
+npx react-native@latest init MyApp --template my_rnkit
 ```
 
-## Libraries Using BrewRNKit 📚
+## Libraries Using my_rnkit 📚
 
 <table>
 <tr>
@@ -45,6 +49,9 @@ npx react-native@latest init MyApp --template react-native-kit
 <td>
 
 - [react-native-reanimated](https://www.npmjs.com/package/react-native-reanimated)
+- [react-hook-form](https://www.npmjs.com/package/react-hook-form)
+- [@shopify/flash-list](https://www.npmjs.com/package/@shopify/flash-list)
+- [react-native-fast-image](https://www.npmjs.com/package/react-native-fast-image)
 
 </td>
 </tr>
@@ -105,3 +112,7 @@ cd ios
 pod install
 yarn ios
 ```
+
+## Acknowledgements
+
+A big thank you to all users of the rnKit React Native Boilerplate. Your support and feedback are invaluable, driving continuous improvement and making this project a success.Your contributions to the React Native development community are greatly appreciated.
